@@ -52,6 +52,8 @@ class WeixinAction extends Action
             $weixin->response($content, $type);
         }
     }
+
+    //回复
     private function reply($data)
     {
         //语音功能
