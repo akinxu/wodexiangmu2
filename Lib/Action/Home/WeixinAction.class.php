@@ -53,7 +53,7 @@ class WeixinAction extends Action
         }
     }
 
-    //回复
+    //master 111111
     private function reply($data)
     {
         //语音功能
